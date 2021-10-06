@@ -5,9 +5,12 @@ subtitle: The 5th International Conference on Computer Games; Challenges and
 date: 2021-10-06T18:19:07.797Z
 draft: false
 featured: false
+tags:
+  - Unity
+  - Rehablitation
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
 ---
 Designing four rehabilitation games utilizing a Leap motion sensor using Unity.
