@@ -27,13 +27,13 @@ feature:
   name: Machine Learning
  
 - description: Matlab Simulink, Proteus, PSpice, PSim
-  icon: code
+  icon: desktop
   icon_pack: fas
   name: Simulation
   
 - description: SPSS, MedCalc
-  icon: user-chart
-  icon_pack: fas
+  icon: chart-scatter
+  icon_pack: far
   name: Statistical
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
