@@ -32,9 +32,10 @@ feature:
   name: Simulation
   
 - description: SPSS, MedCalc
-  icon: chart-scatter
-  icon_pack: far
+  icon: user-chart
+  icon_pack: fas
   name: Statistical
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
