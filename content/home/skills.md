@@ -27,7 +27,7 @@ feature:
   name: Machine Learning
  
  - description: Matlab Simulink, Proteus, PSpice, PSim
-  icon: laptop
+  icon: fa-laptop
   icon_pack: fas
   name: Simulation
   
