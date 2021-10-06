@@ -20,6 +20,11 @@ feature:
   icon: code
   icon_pack: fas
   name: Programming
+
+- description: Matlab
+  icon: humanoid_machine
+  icon_pack: custom
+  name: Machine Learning
   
 
 # Uncomment to use emoji icons.
