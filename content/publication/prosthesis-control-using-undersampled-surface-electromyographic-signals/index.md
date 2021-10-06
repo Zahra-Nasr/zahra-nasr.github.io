@@ -39,7 +39,7 @@ abstract: Amputations can result in disability, permanent physical injury, and
   Finally, a low-cost controller for BRUNEL HAND 2.0 from Open Bionics is
   designed to link low-cost recording and prosthesis.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: ""
