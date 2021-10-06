@@ -36,6 +36,16 @@ feature:
   icon_pack: fas
   name: Statistical
   
+- description: unity
+  icon: gamepad
+  icon_pack: fas
+  name: Game Development
+  
+- description: ADInstruments systems for recording biological signals
+  icon: monitor-heart-rate
+  icon_pack: fas
+  name: Laboratory
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
