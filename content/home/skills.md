@@ -21,30 +21,6 @@ feature:
   icon_pack: fas
   name: Programming
   
-- description: Matlab
-  icon: chart-line
-  icon_pack: fas
-  name: Machine Learning 
-  
-- description: Matlab Simulink, Proteus, PSpice, PSim
-  icon: laptop
-  icon_pack: fas
-  name: Simulation
-  
- - description: SPSS, MedCalc
-  icon: user-chart
-  icon_pack: fas
-  name: Statistical
-  
- - description: unity
-  icon: unity
-  icon_pack: fas
-  name: Game Development
-  
- - description: ADInstruments systems for recording biological signals
-  icon: monitor-heart-rate
-  icon_pack: fas
-  name: Laboratory
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
