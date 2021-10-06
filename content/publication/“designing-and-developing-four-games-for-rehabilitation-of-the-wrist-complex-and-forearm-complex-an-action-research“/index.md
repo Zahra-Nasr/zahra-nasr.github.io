@@ -26,7 +26,7 @@ abstract: >-
 
   Conclusion: The four designed games required the basic movements required for daily and self-care activities and seemed to appeal the younger users.
 draft: false
-featured: false
+featured: true
 tags:
   - Rehabilitation
 image:
