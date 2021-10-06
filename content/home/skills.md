@@ -42,7 +42,7 @@ feature:
   name: Game Development
   
 - description: ADInstruments systems for recording biological signals
-  icon: monitor-heart-rate
+  icon: heart-rate
   icon_pack: fas
   name: Laboratory
   
