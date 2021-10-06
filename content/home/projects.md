@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Rehablitation
+    tag: Rehablitation
+  - name: Machine learning
+    tag: Machine learning
   - name: Other
     tag: Demo
 
