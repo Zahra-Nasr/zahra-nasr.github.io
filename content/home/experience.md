@@ -41,8 +41,8 @@ experience:
     description: Designed test procedures of laparoscopic cameras.
     
   - title: Internship
-    company: Video Game Developing Center
-    company_url: ''
+    company: Center of Entertainment Industry
+    company_url: 'https://uicvgame.ui.ac.ir/'
     company_logo:
     location: Isfahan
     date_start: '2019-06-22'
