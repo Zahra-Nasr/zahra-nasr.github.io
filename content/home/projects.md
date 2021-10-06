@@ -31,8 +31,6 @@ content:
     tag: Rehablitation
   - name: Machine learning
     tag: Machine learning
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
