@@ -40,8 +40,7 @@ abstract: Amputations can result in disability, permanent physical injury, and
   designed to link low-cost recording and prosthesis.
 draft: false
 featured: false
-categories:
-  - pages
+categories: []
 image:
   filename: ""
   focal_point: ""
