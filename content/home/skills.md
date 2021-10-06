@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
+- description: Python,C#, C/C++, AVR, Matlab
+  icon: fa-code
+  icon_pack: fas
+  name: Programming
+- description: Matlab
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Machine Learning 
+- description: Matlab Simulink, Proteus, PSpice, PSim
+  icon: laptop
   icon_pack: fas
-  name: Photography
+  name: Simulation
+ - description: SPSS, MedCalc
+  icon: user-chart
+  icon_pack: fas
+  name: Statistical
+ - description: unity
+  icon: unity
+  icon_pack: fas
+  name: Game Development
+ - description: ADInstruments systems for recording biological signals
+  icon: monitor-heart-rate
+  icon_pack: fas
+  name: Laboratory
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
