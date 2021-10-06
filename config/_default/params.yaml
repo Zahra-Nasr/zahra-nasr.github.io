@@ -28,10 +28,6 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Xahra_N'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
 
 # Site header
 
