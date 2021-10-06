@@ -25,7 +25,11 @@ feature:
   icon: humanoid_machine
   icon_pack: custom
   name: Machine Learning
-  
+ 
+ - description: Matlab Simulink, Proteus, PSpice, PSim
+  icon: laptop
+  icon_pack: fas
+  name: Simulation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
