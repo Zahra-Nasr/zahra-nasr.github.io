@@ -4,6 +4,9 @@ subtitle: Internship project at Center of Entertainment Industry
 date: 2021-10-06T18:56:00.460Z
 draft: false
 featured: false
+tags:
+  - Unity
+  - Rehablitation
 image:
   filename: ""
   focal_point: ""
