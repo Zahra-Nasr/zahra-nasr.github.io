@@ -27,8 +27,8 @@ experience:
     company_url: 'https://behyaar.com/'
     company_logo:
     location: Isfahan
-    date_start: 'Spring 2021'
-    date_end: 'Present'
+    date_start: '2021-06-22'
+    date_end: ''
     description: Improving PET image reconstruction
         
   - title: Internship
