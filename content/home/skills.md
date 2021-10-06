@@ -26,8 +26,8 @@ feature:
   icon_pack: custom
   name: Machine Learning
  
- - description: Matlab Simulink, Proteus, PSpice, PSim
-  icon: desktop
+- description: Matlab Simulink, Proteus, PSpice, PSim
+  icon: code
   icon_pack: fas
   name: Simulation
   
