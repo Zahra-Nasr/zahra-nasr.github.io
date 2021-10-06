@@ -32,7 +32,7 @@ feature:
   name: Simulation
   
 - description: SPSS, MedCalc
-  icon: user-chart
+  icon: chart-line
   icon_pack: fas
   name: Statistical
   
