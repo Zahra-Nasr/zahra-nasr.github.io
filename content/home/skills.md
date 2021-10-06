@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Python,C#, C/C++, AVR, Matlab
-  icon: fa-code
+  icon: code
   icon_pack: fas
   name: Programming
   
