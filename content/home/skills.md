@@ -42,8 +42,8 @@ feature:
   name: Game Development
   
 - description: ADInstruments systems for recording biological signals
-  icon: heart-rate
-  icon_pack: fas
+  icon: monitor_pulse
+  icon_pack: custom
   name: Laboratory
   
 # Uncomment to use emoji icons.
