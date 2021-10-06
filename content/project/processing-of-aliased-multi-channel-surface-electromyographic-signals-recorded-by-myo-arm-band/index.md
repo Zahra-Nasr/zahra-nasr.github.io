@@ -8,7 +8,8 @@ featured: false
 tags:
   - Machine learning
   - Matlab
-  - Medcalc
+  - Statistics
+  - sEMG
 image:
   filename: ""
   focal_point: ""
