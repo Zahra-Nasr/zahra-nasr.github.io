@@ -38,8 +38,8 @@ abstract: Amputations can result in disability, permanent physical injury, and
   and time and frequency parameter extraction using undersampled sEMG signals.
   Finally, a low-cost controller for BRUNEL HAND 2.0 from Open Bionics is
   designed to link low-cost recording and prosthesis.
-draft: false
-featured: true
+draft: true
+featured: false
 image:
   filename: ""
   focal_point: ""
