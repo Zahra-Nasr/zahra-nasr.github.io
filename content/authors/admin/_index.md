@@ -26,8 +26,6 @@ highlight_name: true
 title: Zahra Nasr
 email: ""
 ---
-
-
 Zahra Nasr received her bachelor’s degree at the University of Isfahan. Her research interests include various aspects of health systems such as developing life-improving games and wearable biosensor computing by applying machine learning techniques.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
