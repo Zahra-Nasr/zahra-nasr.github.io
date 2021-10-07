@@ -43,7 +43,7 @@ experience:
   - title: Internship
     company: Center of Entertainment Industry
     company_url: 'https://uicvgame.ui.ac.ir/'
-    company_logo: "/content/home/2019334173231footerlogo.png"
+    company_logo: 2019334173231footerlogo
     location: Isfahan
     date_start: '2019-06-22'
     date_end: '2019-08-22'
