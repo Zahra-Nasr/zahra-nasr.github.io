@@ -25,7 +25,7 @@ experience:
   - title:  Research Intern 
     company: Behyaar
     company_url: 'https://behyaar.com/'
-    company_logo:
+    company_logo: b
     location: Isfahan
     date_start: '2021-06-22'
     date_end: ''
@@ -43,7 +43,7 @@ experience:
   - title: Internship
     company: Center of Entertainment Industry
     company_url: 'https://uicvgame.ui.ac.ir/'
-    company_logo: 2019334173231footerlogo
+    company_logo: g
     location: Isfahan
     date_start: '2019-06-22'
     date_end: '2019-08-22'
