@@ -21,7 +21,7 @@ authors:
 author_notes: []
 links:
  - name: Link
- - url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003146810-5/
+   url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003146810-5/
 publication: CRC Press
 abstract: Amputations can result in disability, permanent physical injury, and
   even posttraumatic stress disorder. Upper extremity amputations are mostly
