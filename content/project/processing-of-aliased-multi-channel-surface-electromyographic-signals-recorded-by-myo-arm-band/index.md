@@ -15,7 +15,6 @@ image:
   caption: EMG recording
   focal_point: Smart
   preview_only: false  
-slides = Slides
 
 ---
 
