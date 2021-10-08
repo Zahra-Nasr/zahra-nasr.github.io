@@ -2,7 +2,7 @@
 title: Processing of Aliased Multi-Channel Surface Electromyographic Signals Recorded by Myo-Arm Band
 subtitle: B.Sc.Thesis
 date: 2020-09-22T18:12:57.889Z
-summary: <img src="/processing-of-aliased-multi-channel-surface-electromyographic-signals-recorded-by-myo-arm-band/thesis.jpg" style="width:10%;height:'auto'"> Recording sEMG signal...
+summary: <img src="content/project/processing-of-aliased-multi-channel-surface-electromyographic-signals-recorded-by-myo-arm-band/thesis.jpg" style="width:10%;height:'auto'"> Recording sEMG signal...
 tags:
   - Machine learning
   - Matlab
