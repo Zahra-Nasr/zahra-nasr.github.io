@@ -1,8 +1,8 @@
 ---
 title: Designing Game for Rehabilitation of the Wrist Complex and Forearm Complex
-subtitle: The 5th International Conference on Computer Games; Challenges and
-  Opportunities
+subtitle: The 5th International Conference on Computer Games; Challenges and Opportunities
 date: 2021-10-06T18:19:07.797Z
+summary: Designing four rehabilitation games utilizing a Leap motion sensor using Unity.
 draft: false
 featured: false
 tags:
