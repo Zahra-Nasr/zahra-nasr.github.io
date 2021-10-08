@@ -14,10 +14,9 @@ image:
   filename: thesis.jpg
   caption: EMG recording
   focal_point: Smart
-  preview_only: false
-  
-  
+  preview_only: false  
 slides = ""
+
 ---
 
 
