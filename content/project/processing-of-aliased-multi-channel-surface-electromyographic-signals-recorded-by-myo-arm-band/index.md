@@ -11,9 +11,10 @@ tags:
   - Statistics
   - sEMG
 image:
-  filename: ""
-  focal_point: ""
-  preview_only: false
+  filename: thesis.jpg
+  caption: EMG recording
+  focal_point: Smart
+  preview_only: true
 ---
 
 
