@@ -2,7 +2,7 @@
 title: Processing of Aliased Multi-Channel Surface Electromyographic Signals
   Recorded by Myo-Arm Band
 subtitle: B.Sc.Thesis
-date: 2021-10-06T18:12:57.889Z
+date: 2020-09-22T18:12:57.889Z
 draft: false
 featured: false
 tags:
