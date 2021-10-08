@@ -16,12 +16,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python,C#, C/C++, AVR, Matlab
+- description: Python, Matlab, C#, C/C++, AVR
   icon: code
   icon_pack: fas
   name: Programming
 
-- description: Matlab
+- description: keras, Matlab
   icon: humanoid_machine
   icon_pack: custom
   name: Machine Learning
