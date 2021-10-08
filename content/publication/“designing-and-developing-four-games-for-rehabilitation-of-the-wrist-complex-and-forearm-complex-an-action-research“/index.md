@@ -1,6 +1,6 @@
 ---
-title: "“Designing and Developing Four Games for Rehabilitation of the Wrist
-  Complex and Forearm Complex: An Action Research“ "
+title: "Designing and Developing Four Games for Rehabilitation of the Wrist
+  Complex and Forearm Complex: An Action Research"
 publication_types:
   - "1"
 authors:
@@ -8,6 +8,9 @@ authors:
   - Nasr-Esfahani Z
   - Garousi H
   - Rezaeian ZS
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 doi: 10.22122/jrrs.v15i6.3456
 publication: " CGCO"
 abstract: >-
