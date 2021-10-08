@@ -1,5 +1,5 @@
 ---
-title: Prosthesis control using undersampled surface electromyographic signals
+title: Prosthesis control using undersampled surface electromyographic signals 
 publication_types:
   - "6"
 authors:
@@ -20,7 +20,7 @@ authors:
   - Miguel Ángel Mañanas
 author_notes: []
 doi:
-url_link: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003146810-5/"
+url_url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003146810-5/"
 publication: CRC Press
 abstract: Amputations can result in disability, permanent physical injury, and
   even posttraumatic stress disorder. Upper extremity amputations are mostly
