@@ -17,8 +17,9 @@ image:
 
 ---
 
+![](thesis.jpg)
 
 * Recording sEMG signal using Myo-Arm Band and use them for hand gesture recognition using machine learning in MATLAB.
 * Statistical analyses of EMG data were recorded below the Nyquist rate using MedCalc.
 
-  ![](thesis.jpg)
+  
