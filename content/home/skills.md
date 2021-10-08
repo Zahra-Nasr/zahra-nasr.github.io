@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Programming
 
-- description: keras, Matlab
+- description: Keras, Matlab
   icon: humanoid_machine
   icon_pack: custom
   name: Machine Learning
@@ -36,7 +36,7 @@ feature:
   icon_pack: fas
   name: Statistical
   
-- description: unity
+- description: Unity
   icon: gamepad
   icon_pack: fas
   name: Game Development
