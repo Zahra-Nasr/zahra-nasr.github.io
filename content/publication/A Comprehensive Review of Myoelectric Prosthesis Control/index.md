@@ -21,6 +21,8 @@ abstract: Prosthetic hands can be used to support upper-body amputees. Myoelectr
 draft: false
 featured: false
 categories: []
+tags:
+  - Signal Processing
 image:
   filename: ""
   focal_point: ""
