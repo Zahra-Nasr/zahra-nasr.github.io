@@ -1,7 +1,7 @@
 ---
 title: Prosthesis control using undersampled surface electromyographic signals 
 publication_types:
-  - "6"
+  - "2"
 authors:
   - Mohammad Reza Mohebbian
   - Marjan Nosouhi
