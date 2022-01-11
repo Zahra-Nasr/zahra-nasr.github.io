@@ -28,7 +28,7 @@ experience:
     company_logo: b
     location: Isfahan
     date_start: '2021-06-22'
-    date_end: ''
+    date_end: '2021-10-01'
     description: Improving PET image reconstruction
         
   - title: Internship
