@@ -1,5 +1,5 @@
 ---
-title: Prosthesis control using undersampled surface electromyographic signals 
+title: A Comprehensive Review of Myoelectric Prosthesis Control 
 publication_types:
   - "2"
 authors:
